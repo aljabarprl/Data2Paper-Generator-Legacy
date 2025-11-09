@@ -1,0 +1,29 @@
+*text= auto
+
+*.tex text eol=lf
+*.bib text eol=lf
+*.cls text eol=lf
+*.sty text eol=lf
+*.f90 text eol=lf
+*.sh  text eol=lf
+*.csv text eol=lf
+*.dat text eol=lf
+*.aux text eol=lf
+*.log text eol=lf
+*.out text eol=lf
+
+*.pdf binary
+*.png binary
+*.jpg binary
+*.eps binary
+
+*.f90 diff=Fortran
+*.tex diff=Tex
+*.bib diff=BibTeX
+*.sh diff=Shell
+
+*.f90 linguist-language=Fortran
+*.tex linguist-language=Tex
+*.bib linguist-language=BibTeX
+*.sh linguist-language=Shell
+ 
