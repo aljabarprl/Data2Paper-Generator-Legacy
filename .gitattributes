@@ -1,17 +1,4 @@
 *text= auto
-
-*.tex text eol=lf
-*.bib text eol=lf
-*.cls text eol=lf
-*.sty text eol=lf
-*.f90 text eol=lf
-*.sh  text eol=lf
-*.csv text eol=lf
-*.dat text eol=lf
-*.aux text eol=lf
-*.log text eol=lf
-*.out text eol=lf
-
 *.pdf binary
 *.png binary
 *.jpg binary
