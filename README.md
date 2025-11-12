@@ -2,7 +2,6 @@
 ## Support
 * ``Linux, Unix & WSL``
 * `.csv`
-* 
 ## Ouput
 * ``.pdf``
 
